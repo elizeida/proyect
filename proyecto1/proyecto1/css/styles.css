@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.header {
+    height: 46px;
+    background-color: #68d4cb !important;
+    
+}
+
+.header-car {
+    height: 100vh;
+    width: 100%;
+}
+
+.contact-me {
+    font-size: 1.25rem!important;
+    color: white;
+   
+}
+
+.container {
+    margin: 5rem 23rem 0 23rem;
+}
+
+#book-now {
+    border: 1px solid;
+    background-color: #68d4cb;
+    text-align: center;
+    color: white;
+}
+.titulo
+{
+    color: #68d4cb;
+    text-align: center;
+}
+.carta
+
+{
+    text-align: center;
+    border: 5px;
+    background-color:gainsboro;
+}
+
+.footer {
+    text-align: center;
+    background-color: #68d4cb;
+    margin: 0;
+    padding: 0;
+}
+
